@@ -1,1 +1,1 @@
-# easy-barcode
+# mobile inventory upload
